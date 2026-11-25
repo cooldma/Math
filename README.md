@@ -11,3 +11,6 @@
   of Erdős Problem #617 at r = 6 (every 6-coloring of E(K₃₇) has a 7-vertex subset missing at
   least one color), plus general-r structural theorems and a disproof of the single-graph
   relaxation for r = 7, 9 and all r ≥ 11.
+* [`A006579-ordowski/`](A006579-ordowski/): computer search showing that n = 23492890653051 is the
+  smallest counterexample to Ordowski's conjecture that Σ_{k<n} gcd(n,k) ≢ −1 (mod n) for composite n
+  (OEIS A006579), and the only one below 10¹⁵.
