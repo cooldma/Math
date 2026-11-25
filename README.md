@@ -7,3 +7,7 @@
   is sharp (Erdős–Szekeres 1960).
 * [`Erdos216-horton/`](Erdos216-horton/): Lean 4 formalization of Horton's theorem (Erdős #216):
   arbitrarily large point sets in general position have no empty convex k-gon for any k ≥ 7.
+* [`Erdos617-r6/`](Erdos617-r6/): elementary, SAT-free proof and standalone Lean 4 formalization
+  of Erdős Problem #617 at r = 6 (every 6-coloring of E(K₃₇) has a 7-vertex subset missing at
+  least one color), plus general-r structural theorems and a disproof of the single-graph
+  relaxation for r = 7, 9 and all r ≥ 11.
