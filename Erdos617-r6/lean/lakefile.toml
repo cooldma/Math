@@ -1,0 +1,16 @@
+name = "erdos617_r6"
+version = "0.1.0"
+keywords = ["math"]
+defaultTargets = ["Erdos617_r6_proof"]
+
+[[lean_lib]]
+name = "Erdos617"
+
+[[lean_lib]]
+name = "Erdos617_r6"
+
+[[lean_lib]]
+name = "Erdos617_r6_peel"
+
+[[lean_lib]]
+name = "Erdos617_r6_proof"
