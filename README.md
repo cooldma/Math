@@ -14,3 +14,7 @@
 * [`A006579-ordowski/`](A006579-ordowski/): computer search showing that n = 23492890653051 is the
   smallest counterexample to Ordowski's conjecture that Σ_{k<n} gcd(n,k) ≢ −1 (mod n) for composite n
   (OEIS A006579), and the only one below 10¹⁵.
+* [`TriangularDn-2611.25270/`](TriangularDn-2611.25270/): multi-threaded bitset-vectorized C++20
+  counterexample search for Conjecture 1.3 of Filipin, Fujita, and Jurasić (arXiv:2611.25270v1) on
+  the non-extendibility of triangular D(n)-pairs {n, 2n} with n = 2k² ± k; 549.77 billion pairs
+  checked across 5.54 million primes (k ≤ 5 × 10⁷) with 0 counterexamples.
