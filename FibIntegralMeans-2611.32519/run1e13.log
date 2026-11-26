@@ -1,0 +1,2 @@
+range [5, 10000000000001): odd m 4999999999998, tested 7927293756 (0.159%), hits 0, time 6048.62s (1.210 ns/odd m wall)
+exit 0

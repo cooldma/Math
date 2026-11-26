@@ -18,3 +18,7 @@
   counterexample search for Conjecture 1.3 of Filipin, Fujita, and Jurasić (arXiv:2611.25270v1) on
   the non-extendibility of triangular D(n)-pairs {n, 2n} with n = 2k² ± k; 549.77 billion pairs
   checked across 5.54 million primes (k ≤ 5 × 10⁷) with 0 counterexamples.
+* [`FibIntegralMeans-2611.32519/`](FibIntegralMeans-2611.32519/): disproof of Conjecture 1.28 of Mandal and Mohan
+  (arXiv:2611.32519) that F_m ∉ 𝒜 = {n : n | F₁+⋯+Fₙ} for odd m ≥ 5. The counterexamples are m = 743 · 1579991745839949349 and
+  m = 197 · 222087470150943658753, found by a structured m = k·P search that factors F_k ± t. An exhaustive sieve shows there is no
+  counterexample below 10¹³.

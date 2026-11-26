@@ -1,0 +1,4 @@
+HIT k=743 P=1579991745839949349 (a=1) def=1 digits=22
+HIT k=197 P=222087470150943658753 (a=1) def=1 digits=23
+SUMMARY k0=3 k1=1000 kvals=399 complete=136 pairs=1077 hits=2
+exit 0

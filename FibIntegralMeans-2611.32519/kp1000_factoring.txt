@@ -1,0 +1,400 @@
+k 999 | -: 5 primes, max 10 digits INCOMPLETE | +: 7 primes, max 180 digits
+k 997 | -: 3 primes, max 17 digits INCOMPLETE | +: 4 primes, max 2 digits INCOMPLETE
+k 993 | -: 4 primes, max 11 digits INCOMPLETE | +: 4 primes, max 13 digits INCOMPLETE
+k 991 | -: 2 primes, max 7 digits INCOMPLETE | +: 5 primes, max 15 digits INCOMPLETE
+k 989 | -: 2 primes, max 7 digits INCOMPLETE | +: 3 primes, max 4 digits INCOMPLETE
+k 987 | -: 4 primes, max 192 digits | +: 4 primes, max 6 digits INCOMPLETE
+k 983 | -: 2 primes, max 15 digits INCOMPLETE | +: 4 primes, max 11 digits INCOMPLETE
+k 981 | -: 3 primes, max 14 digits INCOMPLETE | +: 4 primes, max 2 digits INCOMPLETE
+k 977 | -: 3 primes, max 11 digits INCOMPLETE | +: 3 primes, max 202 digits
+k 979 | -: 4 primes, max 5 digits INCOMPLETE | +: 5 primes, max 18 digits INCOMPLETE
+k 973 | -: 4 primes, max 10 digits INCOMPLETE | +: 5 primes, max 14 digits INCOMPLETE
+k 969 | -: 7 primes, max 7 digits INCOMPLETE | +: 7 primes, max 16 digits INCOMPLETE
+k 971 | -: 4 primes, max 14 digits INCOMPLETE | +: 6 primes, max 10 digits INCOMPLETE
+k 967 | -: 3 primes, max 11 digits INCOMPLETE | +: 1 primes, max 1 digits INCOMPLETE
+k 961 | -: 2 primes, max 5 digits INCOMPLETE | +: 3 primes, max 199 digits
+k 963 | -: 3 primes, max 15 digits INCOMPLETE | +: 5 primes, max 8 digits INCOMPLETE
+k 959 | -: 3 primes, max 9 digits INCOMPLETE | +: 5 primes, max 168 digits
+k 957 | -: 5 primes, max 6 digits INCOMPLETE | +: 5 primes, max 9 digits INCOMPLETE
+k 953 | -: 6 primes, max 13 digits INCOMPLETE | +: 2 primes, max 15 digits INCOMPLETE
+k 951 | -: 4 primes, max 5 digits INCOMPLETE | +: 2 primes, max 5 digits INCOMPLETE
+k 949 | -: 3 primes, max 4 digits INCOMPLETE | +: 6 primes, max 11 digits INCOMPLETE
+k 947 | -: 5 primes, max 10 digits INCOMPLETE | +: 1 primes, max 1 digits INCOMPLETE
+k 943 | -: 4 primes, max 19 digits INCOMPLETE | +: 5 primes, max 7 digits INCOMPLETE
+k 941 | -: 5 primes, max 11 digits INCOMPLETE | +: 3 primes, max 9 digits INCOMPLETE
+k 939 | -: 4 primes, max 7 digits INCOMPLETE | +: 6 primes, max 178 digits
+k 933 | -: 2 primes, max 3 digits INCOMPLETE | +: 5 primes, max 5 digits INCOMPLETE
+k 937 | -: 3 primes, max 4 digits INCOMPLETE | +: 3 primes, max 6 digits INCOMPLETE
+k 931 | -: 4 primes, max 10 digits INCOMPLETE | +: 7 primes, max 14 digits INCOMPLETE
+k 929 | -: 4 primes, max 5 digits INCOMPLETE | +: 2 primes, max 4 digits INCOMPLETE
+k 927 | -: 2 primes, max 1 digits INCOMPLETE | +: 3 primes, max 9 digits INCOMPLETE
+k 921 | -: 3 primes, max 8 digits INCOMPLETE | +: 3 primes, max 8 digits INCOMPLETE
+k 923 | -: 4 primes, max 17 digits INCOMPLETE | +: 5 primes, max 16 digits INCOMPLETE
+k 917 | -: 2 primes, max 192 digits | +: 4 primes, max 6 digits INCOMPLETE
+k 919 | -: 4 primes, max 5 digits INCOMPLETE | +: 8 primes, max 19 digits INCOMPLETE
+k 911 | -: 3 primes, max 187 digits | +: 4 primes, max 13 digits INCOMPLETE
+k 913 | -: 3 primes, max 4 digits INCOMPLETE | +: 3 primes, max 5 digits INCOMPLETE
+k 909 | -: 6 primes, max 15 digits INCOMPLETE | +: 6 primes, max 6 digits INCOMPLETE
+k 907 | -: 4 primes, max 13 digits INCOMPLETE | +: 3 primes, max 10 digits INCOMPLETE
+k 901 | -: 3 primes, max 10 digits INCOMPLETE | +: 6 primes, max 173 digits
+k 903 | -: 4 primes, max 15 digits INCOMPLETE | +: 2 primes, max 6 digits INCOMPLETE
+k 899 | -: 4 primes, max 9 digits INCOMPLETE | +: 5 primes, max 157 digits
+k 897 | -: 5 primes, max 8 digits INCOMPLETE | +: 3 primes, max 14 digits INCOMPLETE
+k 893 | -: 4 primes, max 6 digits INCOMPLETE | +: 3 primes, max 4 digits INCOMPLETE
+k 891 | -: 4 primes, max 16 digits INCOMPLETE | +: 6 primes, max 5 digits INCOMPLETE
+k 889 | -: 1 primes, max 1 digits INCOMPLETE | +: 3 primes, max 182 digits
+k 887 | -: 5 primes, max 17 digits INCOMPLETE | +: 4 primes, max 13 digits INCOMPLETE
+k 883 | -: 4 primes, max 10 digits INCOMPLETE | +: 7 primes, max 12 digits INCOMPLETE
+k 881 | -: 2 primes, max 9 digits INCOMPLETE | +: 3 primes, max 7 digits INCOMPLETE
+k 879 | -: 2 primes, max 1 digits INCOMPLETE | +: 3 primes, max 9 digits INCOMPLETE
+k 873 | -: 2 primes, max 1 digits INCOMPLETE | +: 7 primes, max 157 digits
+k 877 | -: 4 primes, max 11 digits INCOMPLETE | +: 3 primes, max 19 digits INCOMPLETE
+k 871 | -: 4 primes, max 15 digits INCOMPLETE | +: 3 primes, max 178 digits
+k 869 | -: 5 primes, max 19 digits INCOMPLETE | +: 5 primes, max 14 digits INCOMPLETE
+k 863 | -: 3 primes, max 178 digits | +: 7 primes, max 159 digits | COMPLETE
+k 867 | -: 3 primes, max 4 digits INCOMPLETE | +: 10 primes, max 128 digits
+k 861 | -: 2 primes, max 180 digits | +: 4 primes, max 13 digits INCOMPLETE
+k 857 | -: 4 primes, max 9 digits INCOMPLETE | +: 5 primes, max 169 digits
+k 859 | -: 5 primes, max 9 digits INCOMPLETE | +: 3 primes, max 10 digits INCOMPLETE
+k 853 | -: 3 primes, max 7 digits INCOMPLETE | +: 3 primes, max 3 digits INCOMPLETE
+k 849 | -: 4 primes, max 176 digits | +: 5 primes, max 158 digits | COMPLETE
+k 851 | -: 6 primes, max 7 digits INCOMPLETE | +: 1 primes, max 1 digits INCOMPLETE
+k 843 | -: 2 primes, max 14 digits INCOMPLETE | +: 3 primes, max 176 digits
+k 847 | -: 3 primes, max 4 digits INCOMPLETE | +: 6 primes, max 10 digits INCOMPLETE
+k 839 | -: 3 primes, max 5 digits INCOMPLETE | +: 5 primes, max 141 digits
+k 841 | -: 3 primes, max 5 digits INCOMPLETE | +: 2 primes, max 4 digits INCOMPLETE
+k 837 | -: 4 primes, max 11 digits INCOMPLETE | +: 3 primes, max 2 digits INCOMPLETE
+k 833 | -: 5 primes, max 10 digits INCOMPLETE | +: 2 primes, max 4 digits INCOMPLETE
+k 831 | -: 3 primes, max 1 digits INCOMPLETE | +: 4 primes, max 13 digits INCOMPLETE
+k 829 | -: 3 primes, max 3 digits INCOMPLETE | +: 2 primes, max 11 digits INCOMPLETE
+k 823 | -: 6 primes, max 133 digits | +: 4 primes, max 9 digits INCOMPLETE
+k 827 | -: 3 primes, max 14 digits INCOMPLETE | +: 7 primes, max 14 digits INCOMPLETE
+k 821 | -: 4 primes, max 149 digits | +: 3 primes, max 6 digits INCOMPLETE
+k 819 | -: 3 primes, max 9 digits INCOMPLETE | +: 8 primes, max 8 digits INCOMPLETE
+k 817 | -: 2 primes, max 17 digits INCOMPLETE | +: 4 primes, max 150 digits
+k 813 | -: 1 primes, max 1 digits INCOMPLETE | +: 4 primes, max 15 digits INCOMPLETE
+k 811 | -: 3 primes, max 3 digits INCOMPLETE | +: 7 primes, max 141 digits
+k 807 | -: 5 primes, max 9 digits INCOMPLETE | +: 5 primes, max 7 digits INCOMPLETE
+k 809 | -: 5 primes, max 16 digits INCOMPLETE | +: 2 primes, max 4 digits INCOMPLETE
+k 803 | -: 8 primes, max 9 digits INCOMPLETE | +: 6 primes, max 11 digits INCOMPLETE
+k 801 | -: 5 primes, max 7 digits INCOMPLETE | +: 5 primes, max 16 digits INCOMPLETE
+k 799 | -: 6 primes, max 16 digits INCOMPLETE | +: 2 primes, max 2 digits INCOMPLETE
+k 797 | -: 2 primes, max 3 digits INCOMPLETE | +: 3 primes, max 4 digits INCOMPLETE
+k 791 | -: 1 primes, max 1 digits INCOMPLETE | +: 3 primes, max 12 digits INCOMPLETE
+k 793 | -: 6 primes, max 13 digits INCOMPLETE | +: 3 primes, max 3 digits INCOMPLETE
+k 787 | -: 4 primes, max 14 digits INCOMPLETE | +: 8 primes, max 128 digits
+k 789 | -: 3 primes, max 12 digits INCOMPLETE | +: 3 primes, max 7 digits INCOMPLETE
+k 783 | -: 5 primes, max 146 digits | +: 6 primes, max 152 digits | COMPLETE
+k 779 | -: 3 primes, max 157 digits | +: 4 primes, max 10 digits INCOMPLETE
+k 781 | -: 3 primes, max 2 digits INCOMPLETE | +: 3 primes, max 6 digits INCOMPLETE
+k 773 | -: 4 primes, max 13 digits INCOMPLETE | +: 1 primes, max 1 digits INCOMPLETE
+k 777 | -: 4 primes, max 12 digits INCOMPLETE | +: 8 primes, max 19 digits INCOMPLETE
+k 771 | -: 4 primes, max 158 digits | +: 2 primes, max 1 digits INCOMPLETE
+k 767 | -: 3 primes, max 3 digits INCOMPLETE | +: 7 primes, max 133 digits
+k 769 | -: 2 primes, max 4 digits INCOMPLETE | +: 4 primes, max 17 digits INCOMPLETE
+k 763 | -: 5 primes, max 10 digits INCOMPLETE | +: 3 primes, max 11 digits INCOMPLETE
+k 761 | -: 3 primes, max 12 digits INCOMPLETE | +: 5 primes, max 133 digits
+k 757 | -: 4 primes, max 150 digits | +: 4 primes, max 156 digits | COMPLETE
+k 759 | -: 2 primes, max 1 digits INCOMPLETE | +: 5 primes, max 14 digits INCOMPLETE
+k 753 | -: 6 primes, max 19 digits INCOMPLETE | +: 4 primes, max 11 digits INCOMPLETE
+k 749 | -: 5 primes, max 141 digits | +: 5 primes, max 144 digits | COMPLETE
+k 751 | -: 3 primes, max 10 digits INCOMPLETE | +: 5 primes, max 16 digits INCOMPLETE
+k 747 | -: 2 primes, max 6 digits INCOMPLETE | +: 5 primes, max 4 digits INCOMPLETE
+k 743 | -: 3 primes, max 9 digits INCOMPLETE | +: 4 primes, max 19 digits INCOMPLETE
+k 741 | -: 2 primes, max 7 digits INCOMPLETE | +: 5 primes, max 13 digits INCOMPLETE
+k 739 | -: 2 primes, max 11 digits INCOMPLETE | +: 4 primes, max 18 digits INCOMPLETE
+k 737 | -: 3 primes, max 10 digits INCOMPLETE | +: 7 primes, max 128 digits
+k 733 | -: 4 primes, max 5 digits INCOMPLETE | +: 3 primes, max 16 digits INCOMPLETE
+k 731 | -: 4 primes, max 14 digits INCOMPLETE | +: 4 primes, max 5 digits INCOMPLETE
+k 729 | -: 4 primes, max 5 digits INCOMPLETE | +: 5 primes, max 132 digits
+k 723 | -: 3 primes, max 7 digits INCOMPLETE | +: 2 primes, max 1 digits INCOMPLETE
+k 727 | -: 3 primes, max 12 digits INCOMPLETE | +: 2 primes, max 14 digits INCOMPLETE
+k 721 | -: 5 primes, max 15 digits INCOMPLETE | +: 5 primes, max 13 digits INCOMPLETE
+k 719 | -: 1 primes, max 1 digits INCOMPLETE | +: 4 primes, max 13 digits INCOMPLETE
+k 717 | -: 6 primes, max 116 digits | +: 2 primes, max 1 digits INCOMPLETE
+k 713 | -: 5 primes, max 139 digits | +: 5 primes, max 109 digits | COMPLETE
+k 709 | -: 9 primes, max 103 digits | +: 4 primes, max 4 digits INCOMPLETE
+k 711 | -: 5 primes, max 7 digits INCOMPLETE | +: 5 primes, max 6 digits INCOMPLETE
+k 707 | -: 6 primes, max 10 digits INCOMPLETE | +: 8 primes, max 112 digits
+k 703 | -: 4 primes, max 12 digits INCOMPLETE | +: 4 primes, max 11 digits INCOMPLETE
+k 701 | -: 6 primes, max 124 digits | +: 5 primes, max 134 digits | COMPLETE
+k 699 | -: 3 primes, max 4 digits INCOMPLETE | +: 3 primes, max 1 digits INCOMPLETE
+k 697 | -: 1 primes, max 1 digits INCOMPLETE | +: 3 primes, max 3 digits INCOMPLETE
+k 693 | -: 2 primes, max 9 digits INCOMPLETE | +: 6 primes, max 138 digits
+k 691 | -: 3 primes, max 8 digits INCOMPLETE | +: 1 primes, max 1 digits INCOMPLETE
+k 689 | -: 1 primes, max 1 digits INCOMPLETE | +: 3 primes, max 4 digits INCOMPLETE
+k 683 | -: 11 primes, max 89 digits | +: 5 primes, max 3 digits INCOMPLETE
+k 687 | -: 4 primes, max 4 digits INCOMPLETE | +: 1 primes, max 1 digits INCOMPLETE
+k 681 | -: 3 primes, max 4 digits INCOMPLETE | +: 4 primes, max 10 digits INCOMPLETE
+k 677 | -: 4 primes, max 10 digits INCOMPLETE | +: 3 primes, max 4 digits INCOMPLETE
+k 679 | -: 3 primes, max 13 digits INCOMPLETE | +: 2 primes, max 8 digits INCOMPLETE
+k 673 | -: 4 primes, max 131 digits | +: 6 primes, max 9 digits INCOMPLETE
+k 669 | -: 6 primes, max 118 digits | +: 5 primes, max 19 digits INCOMPLETE
+k 671 | -: 3 primes, max 11 digits INCOMPLETE | +: 3 primes, max 6 digits INCOMPLETE
+k 667 | -: 6 primes, max 127 digits | +: 1 primes, max 1 digits INCOMPLETE
+k 663 | -: 7 primes, max 90 digits | +: 5 primes, max 13 digits INCOMPLETE
+k 661 | -: 2 primes, max 19 digits INCOMPLETE | +: 3 primes, max 6 digits INCOMPLETE
+k 657 | -: 3 primes, max 4 digits INCOMPLETE | +: 10 primes, max 91 digits
+k 659 | -: 6 primes, max 10 digits INCOMPLETE | +: 3 primes, max 11 digits INCOMPLETE
+k 653 | -: 4 primes, max 132 digits | +: 5 primes, max 16 digits INCOMPLETE
+k 649 | -: 5 primes, max 10 digits INCOMPLETE | +: 3 primes, max 3 digits INCOMPLETE
+k 651 | -: 4 primes, max 9 digits INCOMPLETE | +: 5 primes, max 10 digits INCOMPLETE
+k 647 | -: 4 primes, max 129 digits | +: 1 primes, max 1 digits INCOMPLETE
+k 643 | -: 3 primes, max 7 digits INCOMPLETE | +: 5 primes, max 118 digits
+k 641 | -: 2 primes, max 3 digits INCOMPLETE | +: 5 primes, max 10 digits INCOMPLETE
+k 639 | -: 7 primes, max 105 digits | +: 3 primes, max 2 digits INCOMPLETE
+k 637 | -: 7 primes, max 8 digits INCOMPLETE | +: 7 primes, max 85 digits
+k 633 | -: 3 primes, max 13 digits INCOMPLETE | +: 1 primes, max 1 digits INCOMPLETE
+k 631 | -: 4 primes, max 16 digits INCOMPLETE | +: 5 primes, max 16 digits INCOMPLETE
+k 629 | -: 7 primes, max 17 digits INCOMPLETE | +: 2 primes, max 10 digits INCOMPLETE
+k 623 | -: 5 primes, max 121 digits | +: 4 primes, max 5 digits INCOMPLETE
+k 627 | -: 4 primes, max 23 digits INCOMPLETE | +: 3 primes, max 7 digits INCOMPLETE
+k 619 | -: 2 primes, max 15 digits INCOMPLETE | +: 4 primes, max 115 digits
+k 617 | -: 7 primes, max 14 digits INCOMPLETE | +: 6 primes, max 117 digits
+k 613 | -: 4 primes, max 111 digits | +: 3 primes, max 126 digits | COMPLETE
+k 621 | -: 3 primes, max 16 digits INCOMPLETE | +: 4 primes, max 2 digits INCOMPLETE
+k 611 | -: 4 primes, max 13 digits INCOMPLETE | +: 3 primes, max 7 digits INCOMPLETE
+k 609 | -: 3 primes, max 1 digits INCOMPLETE | +: 2 primes, max 19 digits INCOMPLETE
+k 607 | -: 3 primes, max 11 digits INCOMPLETE | +: 3 primes, max 6 digits INCOMPLETE
+k 603 | -: 3 primes, max 7 digits INCOMPLETE | +: 8 primes, max 93 digits
+k 601 | -: 1 primes, max 1 digits INCOMPLETE | +: 3 primes, max 123 digits
+k 597 | -: 2 primes, max 2 digits INCOMPLETE | +: 6 primes, max 13 digits INCOMPLETE
+k 599 | -: 3 primes, max 7 digits INCOMPLETE | +: 2 primes, max 2 digits INCOMPLETE
+k 591 | -: 6 primes, max 116 digits | +: 3 primes, max 12 digits INCOMPLETE
+k 589 | -: 8 primes, max 90 digits | +: 3 primes, max 120 digits | COMPLETE
+k 593 | -: 3 primes, max 4 digits INCOMPLETE | +: 5 primes, max 12 digits INCOMPLETE
+k 587 | -: 4 primes, max 11 digits INCOMPLETE | +: 8 primes, max 79 digits
+k 583 | -: 1 primes, max 1 digits INCOMPLETE | +: 9 primes, max 79 digits
+k 581 | -: 8 primes, max 66 digits | +: 2 primes, max 5 digits INCOMPLETE
+k 579 | -: 2 primes, max 9 digits INCOMPLETE | +: 4 primes, max 6 digits INCOMPLETE
+k 577 | -: 6 primes, max 93 digits | +: 2 primes, max 1 digits INCOMPLETE
+k 571 | -: 3 primes, max 114 digits | +: 3 primes, max 5 digits INCOMPLETE
+k 573 | -: 7 primes, max 92 digits | +: 3 primes, max 10 digits INCOMPLETE
+k 567 | -: 5 primes, max 14 digits INCOMPLETE | +: 4 primes, max 111 digits
+k 569 | -: 4 primes, max 18 digits INCOMPLETE | +: 3 primes, max 12 digits INCOMPLETE
+k 563 | -: 4 primes, max 8 digits INCOMPLETE | +: 3 primes, max 5 digits INCOMPLETE
+k 561 | -: 3 primes, max 9 digits INCOMPLETE | +: 5 primes, max 9 digits INCOMPLETE
+k 559 | -: 4 primes, max 10 digits INCOMPLETE | +: 2 primes, max 13 digits INCOMPLETE
+k 557 | -: 3 primes, max 111 digits | +: 3 primes, max 8 digits INCOMPLETE
+k 553 | -: 4 primes, max 18 digits INCOMPLETE | +: 4 primes, max 14 digits INCOMPLETE
+k 549 | -: 6 primes, max 100 digits | +: 5 primes, max 109 digits | COMPLETE
+k 551 | -: 2 primes, max 18 digits INCOMPLETE | +: 5 primes, max 14 digits INCOMPLETE
+k 547 | -: 6 primes, max 103 digits | +: 4 primes, max 96 digits | COMPLETE
+k 541 | -: 3 primes, max 3 digits INCOMPLETE | +: 5 primes, max 102 digits
+k 543 | -: 4 primes, max 4 digits INCOMPLETE | +: 5 primes, max 13 digits INCOMPLETE
+k 539 | -: 4 primes, max 14 digits INCOMPLETE | +: 4 primes, max 5 digits INCOMPLETE
+k 537 | -: 5 primes, max 8 digits INCOMPLETE | +: 3 primes, max 10 digits INCOMPLETE
+k 533 | -: 5 primes, max 9 digits INCOMPLETE | +: 2 primes, max 12 digits INCOMPLETE
+k 531 | -: 5 primes, max 100 digits | +: 4 primes, max 9 digits INCOMPLETE
+k 529 | -: 3 primes, max 99 digits | +: 1 primes, max 1 digits INCOMPLETE
+k 527 | -: 6 primes, max 11 digits INCOMPLETE | +: 4 primes, max 6 digits INCOMPLETE
+k 523 | -: 3 primes, max 15 digits INCOMPLETE | +: 5 primes, max 8 digits INCOMPLETE
+k 519 | -: 5 primes, max 21 digits INCOMPLETE | +: 4 primes, max 97 digits
+k 521 | -: 1 primes, max 1 digits INCOMPLETE | +: 4 primes, max 17 digits INCOMPLETE
+k 517 | -: 3 primes, max 15 digits INCOMPLETE | +: 4 primes, max 9 digits INCOMPLETE
+k 513 | -: 3 primes, max 7 digits INCOMPLETE | +: 4 primes, max 103 digits
+k 509 | -: 1 primes, max 1 digits INCOMPLETE | +: 3 primes, max 104 digits
+k 511 | -: 3 primes, max 12 digits INCOMPLETE | +: 3 primes, max 10 digits INCOMPLETE
+k 503 | -: 5 primes, max 11 digits INCOMPLETE | +: 5 primes, max 95 digits
+k 501 | -: 3 primes, max 94 digits | +: 5 primes, max 11 digits INCOMPLETE
+k 499 | -: 6 primes, max 63 digits | +: 4 primes, max 91 digits | COMPLETE
+k 507 | -: 5 primes, max 15 digits INCOMPLETE | +: 5 primes, max 11 digits INCOMPLETE
+k 497 | -: 5 primes, max 93 digits | +: 4 primes, max 10 digits INCOMPLETE
+k 493 | -: 6 primes, max 97 digits | +: 2 primes, max 12 digits INCOMPLETE
+k 491 | -: 6 primes, max 11 digits INCOMPLETE | +: 4 primes, max 10 digits INCOMPLETE
+k 487 | -: 9 primes, max 24 digits | +: 5 primes, max 87 digits | COMPLETE
+k 489 | -: 4 primes, max 9 digits INCOMPLETE | +: 2 primes, max 4 digits INCOMPLETE
+k 481 | -: 4 primes, max 84 digits | +: 4 primes, max 75 digits | COMPLETE
+k 483 | -: 1 primes, max 1 digits INCOMPLETE | +: 3 primes, max 3 digits INCOMPLETE
+k 479 | -: 2 primes, max 6 digits INCOMPLETE | +: 2 primes, max 6 digits INCOMPLETE
+k 477 | -: 4 primes, max 18 digits INCOMPLETE | +: 5 primes, max 10 digits INCOMPLETE
+k 473 | -: 6 primes, max 6 digits INCOMPLETE | +: 3 primes, max 3 digits INCOMPLETE
+k 471 | -: 7 primes, max 14 digits INCOMPLETE | +: 5 primes, max 16 digits INCOMPLETE
+k 469 | -: 4 primes, max 7 digits INCOMPLETE | +: 2 primes, max 2 digits INCOMPLETE
+k 467 | -: 6 primes, max 13 digits INCOMPLETE | +: 2 primes, max 4 digits INCOMPLETE
+k 463 | -: 4 primes, max 5 digits INCOMPLETE | +: 5 primes, max 6 digits INCOMPLETE
+k 461 | -: 4 primes, max 6 digits INCOMPLETE | +: 2 primes, max 8 digits INCOMPLETE
+k 457 | -: 2 primes, max 96 digits | +: 5 primes, max 9 digits INCOMPLETE
+k 459 | -: 2 primes, max 13 digits INCOMPLETE | +: 6 primes, max 14 digits INCOMPLETE
+k 453 | -: 4 primes, max 79 digits | +: 7 primes, max 70 digits | COMPLETE
+k 449 | -: 3 primes, max 80 digits | +: 3 primes, max 14 digits INCOMPLETE
+k 447 | -: 7 primes, max 74 digits | +: 7 primes, max 64 digits | COMPLETE
+k 451 | -: 4 primes, max 10 digits INCOMPLETE | +: 4 primes, max 14 digits INCOMPLETE
+k 443 | -: 2 primes, max 3 digits INCOMPLETE | +: 6 primes, max 83 digits
+k 439 | -: 3 primes, max 89 digits | +: 2 primes, max 3 digits INCOMPLETE
+k 437 | -: 1 primes, max 1 digits INCOMPLETE | +: 7 primes, max 64 digits
+k 441 | -: 5 primes, max 15 digits INCOMPLETE | +: 5 primes, max 6 digits INCOMPLETE
+k 433 | -: 7 primes, max 59 digits | +: 3 primes, max 16 digits INCOMPLETE
+k 431 | -: 8 primes, max 11 digits INCOMPLETE | +: 3 primes, max 6 digits INCOMPLETE
+k 429 | -: 3 primes, max 3 digits INCOMPLETE | +: 2 primes, max 1 digits INCOMPLETE
+k 427 | -: 5 primes, max 83 digits | +: 5 primes, max 16 digits INCOMPLETE
+k 423 | -: 5 primes, max 21 digits INCOMPLETE | +: 5 primes, max 7 digits INCOMPLETE
+k 419 | -: 4 primes, max 80 digits | +: 3 primes, max 8 digits INCOMPLETE
+k 421 | -: 5 primes, max 52 digits | +: 5 primes, max 19 digits INCOMPLETE
+k 417 | -: 5 primes, max 17 digits INCOMPLETE | +: 7 primes, max 51 digits
+k 411 | -: 6 primes, max 8 digits INCOMPLETE | +: 6 primes, max 70 digits
+k 413 | -: 6 primes, max 7 digits INCOMPLETE | +: 5 primes, max 18 digits INCOMPLETE
+k 407 | -: 6 primes, max 76 digits | +: 5 primes, max 75 digits | COMPLETE
+k 403 | -: 3 primes, max 70 digits | +: 6 primes, max 59 digits | COMPLETE
+k 409 | -: 4 primes, max 16 digits INCOMPLETE | +: 3 primes, max 6 digits INCOMPLETE
+k 401 | -: 5 primes, max 73 digits | +: 4 primes, max 4 digits INCOMPLETE
+k 397 | -: 5 primes, max 11 digits INCOMPLETE | +: 6 primes, max 65 digits
+k 393 | -: 6 primes, max 60 digits | +: 3 primes, max 77 digits | COMPLETE
+k 399 | -: 5 primes, max 50 digits | +: 5 primes, max 54 digits | COMPLETE
+k 389 | -: 7 primes, max 15 digits INCOMPLETE | +: 3 primes, max 3 digits INCOMPLETE
+k 387 | -: 9 primes, max 37 digits | +: 8 primes, max 35 digits | COMPLETE
+k 391 | -: 1 primes, max 1 digits INCOMPLETE | +: 2 primes, max 16 digits INCOMPLETE
+k 383 | -: 3 primes, max 8 digits INCOMPLETE | +: 3 primes, max 3 digits INCOMPLETE
+k 381 | -: 3 primes, max 3 digits INCOMPLETE | +: 8 primes, max 65 digits
+k 377 | -: 7 primes, max 34 digits | +: 5 primes, max 65 digits | COMPLETE
+k 379 | -: 4 primes, max 63 digits | +: 2 primes, max 3 digits INCOMPLETE
+k 373 | -: 5 primes, max 64 digits | +: 3 primes, max 76 digits | COMPLETE
+k 371 | -: 5 primes, max 50 digits | +: 5 primes, max 55 digits | COMPLETE
+k 367 | -: 4 primes, max 70 digits | +: 4 primes, max 56 digits | COMPLETE
+k 363 | -: 5 primes, max 55 digits | +: 6 primes, max 37 digits | COMPLETE
+k 369 | -: 7 primes, max 10 digits INCOMPLETE | +: 3 primes, max 3 digits INCOMPLETE
+k 361 | -: 2 primes, max 8 digits INCOMPLETE | +: 5 primes, max 6 digits INCOMPLETE
+k 357 | -: 2 primes, max 75 digits | +: 3 primes, max 7 digits INCOMPLETE
+k 359 | -: 2 primes, max 5 digits INCOMPLETE | +: 3 primes, max 5 digits INCOMPLETE
+k 353 | -: 6 primes, max 10 digits INCOMPLETE | +: 4 primes, max 14 digits INCOMPLETE
+k 349 | -: 4 primes, max 69 digits | +: 4 primes, max 63 digits | COMPLETE
+k 347 | -: 5 primes, max 60 digits | +: 4 primes, max 65 digits | COMPLETE
+k 351 | -: 5 primes, max 11 digits INCOMPLETE | +: 3 primes, max 12 digits INCOMPLETE
+k 343 | -: 4 primes, max 59 digits | +: 2 primes, max 1 digits INCOMPLETE
+k 339 | -: 5 primes, max 52 digits | +: 4 primes, max 13 digits INCOMPLETE
+k 341 | -: 3 primes, max 5 digits INCOMPLETE | +: 2 primes, max 3 digits INCOMPLETE
+k 333 | -: 2 primes, max 14 digits INCOMPLETE | +: 6 primes, max 57 digits
+k 331 | -: 5 primes, max 42 digits | +: 3 primes, max 64 digits | COMPLETE
+k 329 | -: 4 primes, max 59 digits | +: 5 primes, max 44 digits | COMPLETE
+k 337 | -: 2 primes, max 11 digits INCOMPLETE | +: 4 primes, max 10 digits INCOMPLETE
+k 327 | -: 7 primes, max 28 digits | +: 3 primes, max 60 digits | COMPLETE
+k 323 | -: 5 primes, max 59 digits | +: 5 primes, max 14 digits INCOMPLETE
+k 321 | -: 4 primes, max 4 digits INCOMPLETE | +: 3 primes, max 6 digits INCOMPLETE
+k 317 | -: 1 primes, max 1 digits INCOMPLETE | +: 5 primes, max 49 digits
+k 319 | -: 3 primes, max 12 digits INCOMPLETE | +: 3 primes, max 17 digits INCOMPLETE
+k 313 | -: 3 primes, max 4 digits INCOMPLETE | +: 3 primes, max 63 digits
+k 311 | -: 1 primes, max 1 digits INCOMPLETE | +: 6 primes, max 18 digits
+k 307 | -: 7 primes, max 47 digits | +: 6 primes, max 33 digits | COMPLETE
+k 309 | -: 7 primes, max 41 digits | +: 3 primes, max 5 digits INCOMPLETE
+k 303 | -: 5 primes, max 44 digits | +: 3 primes, max 5 digits INCOMPLETE
+k 299 | -: 5 primes, max 8 digits INCOMPLETE | +: 6 primes, max 39 digits
+k 297 | -: 5 primes, max 44 digits | +: 7 primes, max 21 digits | COMPLETE
+k 301 | -: 5 primes, max 4 digits INCOMPLETE | +: 2 primes, max 6 digits INCOMPLETE
+k 293 | -: 6 primes, max 25 digits | +: 4 primes, max 44 digits | COMPLETE
+k 289 | -: 3 primes, max 46 digits | +: 5 primes, max 42 digits | COMPLETE
+k 291 | -: 5 primes, max 48 digits | +: 2 primes, max 1 digits INCOMPLETE
+k 283 | -: 7 primes, max 17 digits | +: 3 primes, max 57 digits | COMPLETE
+k 287 | -: 5 primes, max 44 digits | +: 2 primes, max 4 digits INCOMPLETE
+k 279 | -: 3 primes, max 58 digits | +: 7 primes, max 46 digits | COMPLETE
+k 277 | -: 2 primes, max 11 digits INCOMPLETE | +: 6 primes, max 47 digits
+k 281 | -: 1 primes, max 1 digits INCOMPLETE | +: 3 primes, max 48 digits
+k 273 | -: 6 primes, max 31 digits | +: 3 primes, max 37 digits | COMPLETE
+k 269 | -: 3 primes, max 53 digits | +: 3 primes, max 51 digits | COMPLETE
+k 271 | -: 3 primes, max 11 digits INCOMPLETE | +: 7 primes, max 18 digits
+k 267 | -: 5 primes, max 43 digits | +: 3 primes, max 4 digits INCOMPLETE
+k 263 | -: 2 primes, max 55 digits | +: 2 primes, max 1 digits INCOMPLETE
+k 259 | -: 4 primes, max 44 digits | +: 5 primes, max 20 digits | COMPLETE
+k 257 | -: 4 primes, max 50 digits | +: 5 primes, max 36 digits | COMPLETE
+k 261 | -: 5 primes, max 20 digits | +: 5 primes, max 3 digits INCOMPLETE
+k 251 | -: 4 primes, max 44 digits | +: 5 primes, max 35 digits | COMPLETE
+k 249 | -: 5 primes, max 49 digits | +: 5 primes, max 40 digits | COMPLETE
+k 247 | -: 5 primes, max 41 digits | +: 3 primes, max 46 digits | COMPLETE
+k 243 | -: 6 primes, max 42 digits | +: 7 primes, max 22 digits | COMPLETE
+k 253 | -: 9 primes, max 19 digits | +: 3 primes, max 4 digits INCOMPLETE
+k 239 | -: 3 primes, max 47 digits | +: 4 primes, max 35 digits | COMPLETE
+k 241 | -: 3 primes, max 13 digits INCOMPLETE | +: 3 primes, max 33 digits
+k 233 | -: 8 primes, max 16 digits | +: 2 primes, max 48 digits | COMPLETE
+k 231 | -: 3 primes, max 1 digits INCOMPLETE | +: 8 primes, max 20 digits
+k 229 | -: 3 primes, max 45 digits | +: 6 primes, max 22 digits | COMPLETE
+k 237 | -: 5 primes, max 33 digits | +: 6 primes, max 25 digits | COMPLETE
+k 227 | -: 4 primes, max 45 digits | +: 4 primes, max 8 digits INCOMPLETE
+k 221 | -: 5 primes, max 26 digits | +: 3 primes, max 40 digits | COMPLETE
+k 223 | -: 1 primes, max 1 digits INCOMPLETE | +: 4 primes, max 38 digits
+k 219 | -: 6 primes, max 17 digits | +: 6 primes, max 23 digits | COMPLETE
+k 213 | -: 4 primes, max 22 digits | +: 6 primes, max 15 digits | COMPLETE
+k 211 | -: 6 primes, max 18 digits | +: 3 primes, max 34 digits | COMPLETE
+k 217 | -: 3 primes, max 4 digits INCOMPLETE | +: 6 primes, max 23 digits
+k 207 | -: 5 primes, max 28 digits | +: 5 primes, max 27 digits | COMPLETE
+k 203 | -: 4 primes, max 18 digits | +: 6 primes, max 32 digits | COMPLETE
+k 201 | -: 8 primes, max 20 digits | +: 3 primes, max 41 digits | COMPLETE
+k 209 | -: 3 primes, max 41 digits | +: 4 primes, max 26 digits | COMPLETE
+k 197 | -: 4 primes, max 21 digits | +: 5 primes, max 20 digits | COMPLETE
+k 193 | -: 6 primes, max 26 digits | +: 4 primes, max 31 digits | COMPLETE
+k 191 | -: 5 primes, max 18 digits | +: 4 primes, max 35 digits | COMPLETE
+k 189 | -: 6 primes, max 23 digits | +: 4 primes, max 38 digits | COMPLETE
+k 187 | -: 6 primes, max 23 digits | +: 6 primes, max 25 digits | COMPLETE
+k 183 | -: 4 primes, max 31 digits | +: 3 primes, max 29 digits | COMPLETE
+k 181 | -: 5 primes, max 27 digits | +: 5 primes, max 31 digits | COMPLETE
+k 179 | -: 6 primes, max 17 digits | +: 4 primes, max 22 digits | COMPLETE
+k 177 | -: 4 primes, max 33 digits | +: 4 primes, max 32 digits | COMPLETE
+k 173 | -: 4 primes, max 29 digits | +: 5 primes, max 15 digits | COMPLETE
+k 199 | -: 7 primes, max 18 digits | +: 3 primes, max 24 digits | COMPLETE
+k 171 | -: 5 primes, max 15 digits | +: 6 primes, max 22 digits | COMPLETE
+k 169 | -: 4 primes, max 25 digits | +: 4 primes, max 18 digits | COMPLETE
+k 163 | -: 3 primes, max 25 digits | +: 3 primes, max 33 digits | COMPLETE
+k 161 | -: 4 primes, max 18 digits | +: 7 primes, max 17 digits | COMPLETE
+k 159 | -: 5 primes, max 19 digits | +: 4 primes, max 28 digits | COMPLETE
+k 157 | -: 4 primes, max 22 digits | +: 4 primes, max 28 digits | COMPLETE
+k 167 | -: 5 primes, max 19 digits | +: 4 primes, max 19 digits | COMPLETE
+k 151 | -: 3 primes, max 29 digits | +: 6 primes, max 14 digits | COMPLETE
+k 149 | -: 3 primes, max 21 digits | +: 4 primes, max 17 digits | COMPLETE
+k 153 | -: 5 primes, max 15 digits | +: 5 primes, max 22 digits | COMPLETE
+k 143 | -: 5 primes, max 14 digits | +: 8 primes, max 14 digits | COMPLETE
+k 141 | -: 2 primes, max 29 digits | +: 5 primes, max 25 digits | COMPLETE
+k 139 | -: 3 primes, max 25 digits | +: 5 primes, max 12 digits | COMPLETE
+k 147 | -: 4 primes, max 20 digits | +: 4 primes, max 16 digits | COMPLETE
+k 133 | -: 3 primes, max 26 digits | +: 4 primes, max 23 digits | COMPLETE
+k 131 | -: 6 primes, max 19 digits | +: 5 primes, max 10 digits | COMPLETE
+k 137 | -: 3 primes, max 17 digits | +: 5 primes, max 18 digits | COMPLETE
+k 127 | -: 7 primes, max 8 digits | +: 2 primes, max 25 digits | COMPLETE
+k 123 | -: 4 primes, max 16 digits | +: 4 primes, max 21 digits | COMPLETE
+k 121 | -: 4 primes, max 18 digits | +: 4 primes, max 22 digits | COMPLETE
+k 129 | -: 6 primes, max 16 digits | +: 4 primes, max 10 digits | COMPLETE
+k 117 | -: 5 primes, max 13 digits | +: 5 primes, max 19 digits | COMPLETE
+k 113 | -: 3 primes, max 23 digits | +: 2 primes, max 22 digits | COMPLETE
+k 111 | -: 5 primes, max 17 digits | +: 3 primes, max 16 digits | COMPLETE
+k 109 | -: 4 primes, max 16 digits | +: 4 primes, max 14 digits | COMPLETE
+k 107 | -: 5 primes, max 13 digits | +: 3 primes, max 21 digits | COMPLETE
+k 103 | -: 3 primes, max 16 digits | +: 5 primes, max 13 digits | COMPLETE
+k 101 | -: 3 primes, max 18 digits | +: 2 primes, max 20 digits | COMPLETE
+k 99 | -: 5 primes, max 12 digits | +: 6 primes, max 10 digits | COMPLETE
+k 97 | -: 2 primes, max 20 digits | +: 6 primes, max 11 digits | COMPLETE
+k 93 | -: 2 primes, max 19 digits | +: 5 primes, max 13 digits | COMPLETE
+k 91 | -: 3 primes, max 15 digits | +: 3 primes, max 12 digits | COMPLETE
+k 89 | -: 3 primes, max 13 digits | +: 2 primes, max 18 digits | COMPLETE
+k 87 | -: 4 primes, max 12 digits | +: 2 primes, max 18 digits | COMPLETE
+k 83 | -: 4 primes, max 12 digits | +: 4 primes, max 12 digits | COMPLETE
+k 81 | -: 4 primes, max 14 digits | +: 4 primes, max 15 digits | COMPLETE
+k 79 | -: 3 primes, max 13 digits | +: 2 primes, max 15 digits | COMPLETE
+k 77 | -: 5 primes, max 7 digits | +: 3 primes, max 15 digits | COMPLETE
+k 73 | -: 4 primes, max 11 digits | +: 3 primes, max 11 digits | COMPLETE
+k 71 | -: 4 primes, max 6 digits | +: 3 primes, max 13 digits | COMPLETE
+k 69 | -: 3 primes, max 14 digits | +: 4 primes, max 12 digits | COMPLETE
+k 67 | -: 3 primes, max 13 digits | +: 5 primes, max 5 digits | COMPLETE
+k 63 | -: 4 primes, max 10 digits | +: 5 primes, max 6 digits | COMPLETE
+k 61 | -: 4 primes, max 7 digits | +: 2 primes, max 13 digits | COMPLETE
+k 59 | -: 3 primes, max 10 digits | +: 4 primes, max 8 digits | COMPLETE
+k 57 | -: 4 primes, max 8 digits | +: 2 primes, max 12 digits | COMPLETE
+k 53 | -: 5 primes, max 5 digits | +: 2 primes, max 10 digits | COMPLETE
+k 51 | -: 3 primes, max 10 digits | +: 3 primes, max 10 digits | COMPLETE
+k 49 | -: 3 primes, max 6 digits | +: 3 primes, max 7 digits | COMPLETE
+k 47 | -: 5 primes, max 5 digits | +: 3 primes, max 8 digits | COMPLETE
+k 43 | -: 4 primes, max 4 digits | +: 4 primes, max 6 digits | COMPLETE
+k 41 | -: 3 primes, max 6 digits | +: 2 primes, max 8 digits | COMPLETE
+k 39 | -: 3 primes, max 8 digits | +: 4 primes, max 6 digits | COMPLETE
+k 37 | -: 4 primes, max 4 digits | +: 4 primes, max 5 digits | COMPLETE
+k 33 | -: 3 primes, max 7 digits | +: 3 primes, max 5 digits | COMPLETE
+k 31 | -: 3 primes, max 5 digits | +: 2 primes, max 5 digits | COMPLETE
+k 29 | -: 3 primes, max 4 digits | +: 2 primes, max 5 digits | COMPLETE
+k 27 | -: 2 primes, max 6 digits | +: 4 primes, max 4 digits | COMPLETE
+k 23 | -: 2 primes, max 5 digits | +: 3 primes, max 4 digits | COMPLETE
+k 21 | -: 2 primes, max 4 digits | +: 4 primes, max 3 digits | COMPLETE
+k 19 | -: 2 primes, max 4 digits | +: 2 primes, max 4 digits | COMPLETE
+k 17 | -: 2 primes, max 4 digits | +: 2 primes, max 1 digits | COMPLETE
+k 13 | -: 3 primes, max 2 digits | +: 2 primes, max 2 digits | COMPLETE
+k 11 | -: 2 primes, max 2 digits | +: 2 primes, max 2 digits | COMPLETE
+k 9 | -: 3 primes, max 1 digits | +: 2 primes, max 2 digits | COMPLETE
+k 7 | -: 2 primes, max 1 digits | +: 1 primes, max 1 digits | COMPLETE
+k 3 | -: 1 primes, max 1 digits | +: 2 primes, max 1 digits | COMPLETE
+k 119 | -: 3 primes, max 18 digits | +: 3 primes, max 14 digits | COMPLETE
+done k in [3,1000]: 399 k values, 136 fully factored, 1077 (k,P) pairs tested, 2 hits, 3152.6s
